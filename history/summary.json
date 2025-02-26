@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc1.nodev.web.id.ico",
     "slug": "fast-panel",
     "status": "up",
-    "uptime": "87.84%",
+    "uptime": "90.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.84%",
-    "uptimeMonth": "87.84%",
-    "uptimeYear": "87.84%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "90.25%",
+    "uptimeYear": "90.25%",
     "time": 1406,
     "timeDay": 793,
     "timeWeek": 1406,
@@ -24,7 +24,7 @@
     "url": "https://xcloud.web.id",
     "icon": "https://icons.duckduckgo.com/ip3/xcloud.web.id.ico",
     "slug": "id-cloudhost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 1134,
     "timeMonth": 1134,
     "timeYear": 1134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-26": 0
+    }
   }
 ]

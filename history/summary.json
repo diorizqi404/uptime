@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dc1.nodev.web.id.ico",
     "slug": "fast-panel",
     "status": "up",
-    "uptime": "92.23%",
+    "uptime": "93.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.23%",
-    "uptimeMonth": "92.23%",
-    "uptimeYear": "92.23%",
-    "time": 1231,
-    "timeDay": 777,
-    "timeWeek": 1231,
-    "timeMonth": 1231,
-    "timeYear": 1231,
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "93.43%",
+    "time": 1188,
+    "timeDay": 886,
+    "timeWeek": 1188,
+    "timeMonth": 1188,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2025-02-22": 619
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1121,
-    "timeDay": 1087,
-    "timeWeek": 1121,
-    "timeMonth": 1121,
-    "timeYear": 1121,
+    "time": 1122,
+    "timeDay": 1130,
+    "timeWeek": 1122,
+    "timeMonth": 1122,
+    "timeYear": 1122,
     "dailyMinutesDown": {}
   }
 ]
